@@ -1,4 +1,3 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kailash.s1998%2Fstep-into-the-world-of-ai-8684068bdee9&psig=AOvVaw275X1XoA-zimyoNv8nccdC&ust=1706532073929000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjmt8WNgIQDFQAAAAAdAAAAABAR](https://www.google.com/url?sa=i&url=https%3A%2F%2Finterestingengineering.com%2Finnovation%2Fwhat-is-deep-learning-and-why-is-it-more-relevant-than-ever&psig=AOvVaw275X1XoA-zimyoNv8nccdC&ust=1706532073929000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjmt8WNgIQDFQAAAAAdAAAAABAi))
 
 <h1 align="center">Hi 👋, I'm Alper Özgür Şahin</h1>
 <h3 align="center">A ambitious developer from Turkey</h3>
