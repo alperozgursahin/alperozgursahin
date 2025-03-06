@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alper Özgür Şahin</h1>
 <h3 align="center">A ambitious developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, AI**
+- 🌱 I’m currently learning **Data Analysis, Machine Learning, AI, .NET&C#, Back-end Developer**
 
 - 📫 How to reach me **alperozgursahin6@gmail.com**
 
